@@ -1,0 +1,3 @@
+name = "qrcode"  # Worker 的名称，需唯一
+main = "dist/worker.js"    # 主入口文件路径
+compatibility_date = "2025-01-14" # 当前日期
